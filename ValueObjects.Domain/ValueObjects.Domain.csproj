@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Aggregates\Person_Demo\" />
-    <Folder Include="Aggregates\Person_C9\" />
   </ItemGroup>
 
 </Project>
